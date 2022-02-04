@@ -1,6 +1,13 @@
 docker-compose.yml
 wp-admin
-wp-content
 wp-includes
 wp-config-docker.php
 wp-config.php
+html/wp-content/languages
+html/wp-content/plugins
+html/wp-content/upgrade
+html/wp-content/uploads
+html/wp-content/index.php
+html/wp-content/themes/twentytwenty
+html/wp-content/themes/twentytwentyone
+html/wp-content/themes/twentytwentytwo
