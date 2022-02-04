@@ -1,0 +1,6 @@
+docker-compose.yml
+wp-admin
+wp-content
+wp-includes
+wp-config-docker.php
+wp-config.php
