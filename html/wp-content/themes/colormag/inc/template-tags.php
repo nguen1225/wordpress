@@ -404,6 +404,7 @@ if ( ! function_exists( 'colormag_middle_header_bar_display' ) ) :
 
 					<div id="header-text" class="<?php echo esc_attr( $screen_reader ); ?>">
 						<?php if ( is_front_page() || is_home() ) : ?>
+							<!-- <h1>これはテスト</h1> -->
 							<h1 id="site-title">
 								<a href="<?php echo esc_url( home_url( '/' ) ); ?>" title="<?php echo esc_attr( get_bloginfo( 'name', 'display' ) ); ?>" rel="home"><?php bloginfo( 'name' ); ?></a>
 							</h1>
